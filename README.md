@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/anshu-work724/DSA/tree/master/0136-single-number) |
 | [1480-running-sum-of-1d-array](https://github.com/anshu-work724/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/anshu-work724/DSA/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/anshu-work724/DSA/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshu-work724/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
